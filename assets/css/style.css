@@ -1,0 +1,618 @@
+
+
+body {
+    background-color: #E4E1E1;
+}
+li {
+    width: 190px;
+    height: 19px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 15px;
+    letter-spacing: 0.08em;
+}
+#date {
+    font-family: 'Bebas Neue';
+    font-size: 11px;
+    font-weight: 200;
+    line-height: 16px;
+    letter-spacing: 0.08em;
+    text-align: left;
+
+}
+small {
+    font-family: 'Bebas Neue';
+    font-size: 12px;
+    margin-left: 4px;
+    color: rgba(200, 200, 200, 1)
+}
+h1 {
+    font-family: 'Bebas Neue';
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 30px;
+    letter-spacing: 0.08em;
+    text-align: left;
+    
+
+
+}
+h2 {
+    font-family: 'Bebas Neue';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.13em;
+    text-align: left;
+    
+
+    
+}
+
+.wrapper {
+
+    max-width: 1500px;
+    margin: 0 auto;
+
+
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.header_wrapper { 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+
+}
+
+.logo { 
+    font-family: "Fredoka One";
+    color: #E4E1E1;
+    font-size: 30px;
+
+    text-decoration: none;
+
+}
+
+
+
+.wrapper_content {
+
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.title {
+    font-size: 7px;
+    font-family: 'Bebas Neue';
+
+    letter-spacing: 00.25em;
+    text-align: center;
+
+}
+.fonmain {
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 750px;
+    height: 450px;
+    transform: rotate(5398deg)
+}
+.fonmain:hover {
+    transform: scale(1.1);
+    transform: rotate(0deg);
+}
+
+.wrapper_main_container{
+    display: flex;
+
+
+    width: 1500px;
+    height: 519.21px;
+    margin-top: 20px;
+
+}
+.hotbox_block {
+    display: flex;
+    margin-left: 240px;
+    margin-right: auto;
+    margin-top: -25px;
+    background: #131313;
+    border: 1px solid #000000;
+
+    box-shadow: 5px 5px 10px 3px  rgba(16, 16, 16, 0.25);
+    width: 231px;
+    height: 50px;
+    border-radius: 18px;
+
+
+}
+
+
+.b1 {
+ 
+    width: 354.38px;
+    height: 193.94px;
+    margin-top: 25.79px;
+    margin-right: 70px;
+
+    
+    background: #E4E1E1;
+    border-radius: 100px;
+
+}
+.text:hover {
+    color: #880404;
+}
+.container_text {
+    position: relative;
+    text-align: center;
+    color: black;
+    margin-bottom: 100px;
+}
+.text {
+    width: 264px;
+    height: 160px;
+    font-size: 13px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+.title_text {
+    font-size: 19px;
+
+}
+
+.news_title {
+    margin-bottom: 100px;
+    margin:130px;
+
+}
+.shadow_block {
+    margin-top: -25px;
+    margin-left: -5px;
+}
+.hotbox_main_container {
+    display: block;
+    box-sizing: border-box;
+
+    margin-top: 21px;
+    width: 1250px;
+    height: 480px;
+    
+
+    border: 1px solid rgba(146, 139, 139, 0.2);
+    box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.45);
+    border-radius: 68px;
+
+
+}
+
+
+
+.b3 {
+
+    box-sizing: border-box;
+
+    margin-left: 47px;
+    width: 323px;
+    height: 344px;
+    border-radius: 32px;
+    overflow: hidden;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.20);
+
+} 
+.b3 img {
+    width: 353px;
+    height: 347px;
+}
+.b3:hover {
+    -webkit-filter: brightness(97%)
+}
+.content_hotbox_img_text {
+    display: flex;
+    margin-top: 50px;
+    
+
+}
+.text_hotbox {
+
+    width: 183px;
+    height: 409px;
+    font-family: 'Bebas Neue';
+
+    font-weight: 700;
+    font-size: 25px;
+    margin-top:25px;
+
+    
+
+    text-align:justify;
+    line-height: 33px;
+    margin-left: 10px;
+    color: rgba(151, 139, 139, 1);
+
+
+}
+.text_hotbox1 {
+    margin-top: 8px;
+    margin-left: 49px;
+
+    width: 133px;
+    height: 35px;
+
+    font-family: 'Fredoka One';
+
+
+    color: #E4E1E1;
+
+}
+
+
+
+.wrapper_live_tablo {
+
+    display: flex;
+    width: 1500px;
+    height: 155px;
+    margin-top: 50px;
+    border-radius: 31px;
+}
+.b2:last-child{
+    margin-right: 0;
+}
+.btc {
+    width: 240px;
+    height: 143px;
+    margin: 4.8px;
+    margin-right: 6px;
+    overflow: hidden;
+
+
+    border-radius: 31px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.20);
+}
+.btc:hover {
+    -webkit-filter: brightness(90%);
+}
+
+.wrapper_main_menu {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1500px;
+    height: 55px;
+    background-color:rgba(0, 0, 0, 0.84);
+    border-radius: 31px;
+}
+.menu_wrapper {
+    
+
+    width: 1500px;
+    height: 55px;
+    margin-top: 50px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.20);
+    border-radius: 31px;
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+}
+.list {
+    display:flex;
+}
+
+.item {
+    margin: 62px;
+    font-size: 19px;
+}
+
+.link {
+
+    font-family: 'Bebas Neue';
+    text-decoration: none;
+    cursor: pointer;
+    list-style: none;
+    letter-spacing: 00.08em;
+
+    color: rgb(255, 255, 255);
+    
+}
+a:hover {
+    color: rgb(255, 11, 11);
+}
+.wrapper_news_block {
+    display: flex;
+    width: 1500px;
+    height: 100%;
+    margin-top: 55px;
+    margin-bottom: 55px;
+
+    
+    
+
+}
+
+.wrapper_news_menu {
+    width: 1100.44px;
+    height: 100%;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: rgb(199, 192, 192);
+
+}
+.widjets_logo {
+    display: flex;
+}
+
+.new1 {
+
+    width: 248.58px;
+    height: 152.73px;
+    border-radius: 39px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.20);
+    margin-top: 20.36px;
+    background-size: cover;
+    background-image:url(/assets/images/img/novostirts.png);
+}
+.new1:hover {
+    -webkit-filter: brightness(70%);
+
+}
+
+.wrapper_uncoming_mint_block {
+    width: 346.62px;
+    height: 100%;
+
+
+
+}
+.line{
+    border-bottom: 1px solid rgb(199, 192, 192);
+    margin-top: 12px;
+    margin-left: 90.65px;
+}
+
+.one_block1 {
+    display: flex;
+    width: 343px;
+    height: 318px;
+    border-radius: 55px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.20);
+    margin-top: 25px;
+    margin-left: 50.65px;
+
+    background-size: cover;
+    background-image: url(/assets/images/img/Davey\ on\ Twitter.jpeg);
+    
+}
+.one_block1:hover {
+    -webkit-filter: brightness(80%)
+
+}
+.uncoming_mints_icons { 
+    position: absolute;
+    width: 52px;
+    height: 50px;
+    margin: 25px;
+    
+}
+.one_block2 {
+    display: flex;
+    width: 343px;
+    height: 318px;
+    border-radius: 55px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.20);
+    margin-top: 87px;
+    margin-left: 50.65px;
+
+    background-size: cover;
+    background-image: url(/assets/images/img/news2.webp);
+}
+.one_block2:hover {
+    -webkit-filter: brightness(80%)
+
+}
+.one_block3 {
+    display: flex;
+    width: 343px;
+    height: 318px;
+    border-radius: 55px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.20);
+    margin-top: 87px;
+    margin-left: 50.65px;
+
+    background-size: cover;
+    background-image: url(/assets/images/img/brokebouse.webp);
+}
+.one_block3:hover {
+    -webkit-filter: brightness(80%)
+
+}
+
+
+.block1 {
+    display: flex;
+
+
+}
+.block_text_news {
+    margin-left: 38.45px;
+    margin-top: 40.27px;
+    cursor: pointer;
+}
+.block_text_news:hover {
+    color:#535151
+
+}
+#date {
+    margin-bottom: 5px;
+}
+.text_description {
+    margin-top: 6.54px;
+}
+
+.datetime_block {
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 81%;
+
+    width: 244px;
+    height: 75px;
+
+    background: linear-gradient(180deg, #3761B4 0%, rgba(0, 0, 0, 0.85) 100%);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.datetime_block_text { 
+    margin: 10px;
+    margin-left: 20px;
+    color: #E4E1E1;
+    font-family: 'Bebas Neue';
+    letter-spacing: 0.05em;
+
+    text-align: center;
+
+
+}
+.title_uncoming {
+    margin-left: 44.88px;
+    margin-top: 106.43
+    
+
+}
+.uncoming_logo_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 5px;
+    margin-left: 90.65px;
+}
+.footer_content {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+footer {
+    margin-top: auto;
+    background-color: black;
+}
+.item_footer {
+    font-family: 'Bebas Neue';
+
+    margin-right: 200px;
+
+    margin: 20px
+}
+.partners {
+    display:block
+}
+.contacts {
+    display: block;
+}
+.page {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-width: 100vw;
+}
+.wrapper_information_and_solanaeth {
+    display: block;
+
+}
+.information_box {
+    display: flex;
+    width: 501px;
+    height: 52px;
+    border-radius: 17px;
+    border: 1px solid rgba(201, 172, 70, 1);
+    margin-top: 17px;
+    align-items: center;
+
+
+}
+
+.infomations_border_line {
+    width: 74px;
+    height: 52px;
+    border-right: 1px solid rgba(201, 172, 70, 1);
+
+
+}
+.warning_icon {
+    height: 26.25px;
+    width: 29.997852325439453px;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.informations_text {
+    font-size: 13px;
+    color: black;
+    text-align: center;
+    font-family: 'Intel';
+}
+.solana_and_eth {
+    display: flex;
+    width: 146px;
+    height: 40px;
+    border: 1px solid rgb(111, 110, 110);
+    border-radius: 9px;
+    margin-top: 40px;
+    margin-left: 175px;
+}
+.informations_icon_solana {
+    width: 73px;
+    height: 40px;
+    border-right: 1px solid rgb(0, 0, 0);
+    border-top-left-radius:  8px;
+    border-bottom-left-radius:  8px;
+    background-color: #D9D9D9;
+}
+.informations_icon_eth {
+    width: 73px;
+    height: 40px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: #D9D9D9;
+
+
+}
+
+.icon_drop_block {
+    width: 30px;
+    height: 30px;
+    margin-left: 22px;
+    margin-top: 4px;
+}
+.informations_icon_solana:hover {
+    background-color: rgb(173, 171, 171);
+}
+.informations_icon_eth:hover {
+    background-color: rgb(173, 171, 171);
+}
+
+.wrapper_table {
+    width: 1146px;
+    height: 1146px;
+    margin-top: 69px
+}

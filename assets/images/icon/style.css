@@ -1,0 +1,239 @@
+
+
+body {
+    background-color: #E4E1E1;
+}
+
+.header {
+    display: flex;
+    background-color: #000000;
+
+
+}
+
+
+.logo { 
+
+
+    width: 150px;
+    height: 60px;
+    top: 0px;
+}
+
+form {
+
+    display: flex;
+    margin:auto;
+
+    width: 349px;
+    height: 28px;
+    
+    background: #FFFFFF;
+    border: 2px solid #CAC1C1;
+    border-radius: 7px;
+
+    }
+    input{
+    padding:4px 10px;
+    border:0;
+    font-size:16px;
+    }
+    .search {
+    width: 75%;
+    }
+    .submit{
+    width: 70px;
+    background-color: #a0a0a1;
+    color:#ffffff;
+    }
+
+.connectwallet {
+    display: flex;
+    float: right;
+    align-items: center;
+    top: 10px;
+    width: 150px;
+    height: 28px;
+
+    color: white;
+
+
+}
+
+.title {
+    padding-left: 40%;
+    
+}
+.infobox1 {
+
+    position: absolute;
+    top: 13%;
+    margin: 20px;
+    width: 360px;
+    height: 226px;
+    overflow: hidden;
+    word-wrap:break-word;
+
+    background: rgba(255, 255, 255, 0.17);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+
+
+    
+}
+
+.infobox2 {
+    
+    position: absolute;
+    top: 45%;
+
+    margin: 20px;
+    width: 360px;
+    height: 226px;
+    overflow: hidden;
+    word-wrap:break-word;
+
+    background: rgba(255, 255, 255, 0.17);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+}
+.infobox3 {
+
+    position: absolute;
+    top: 13%;
+    left: 27%;
+    margin: 20px;
+    width: 360px;
+    height: 226px;
+    overflow: hidden;
+    word-wrap:break-word;
+
+    background: rgba(255, 255, 255, 0.17);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+}
+.infobox4 {
+
+    position: absolute;
+    top: 45%;
+    left: 27%;
+
+    margin: 20px;
+    width: 360px;
+    height: 226px;
+    overflow: hidden;
+    word-wrap:break-word;
+
+    background: rgba(255, 255, 255, 0.17);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+
+}
+
+.infotitle {
+    font-size: 18px;
+    margin: 20px;
+}
+.hotbox {
+    position: absolute;
+    top: 18%;
+    left: 58%;
+
+    margin: 0px;
+    width: 554px;
+    height: 434px;
+    overflow: hidden;
+    word-wrap:break-word;
+
+    background: rgba(255, 255, 255, 0.17);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+}
+.hotboximg {
+    float: left;
+    width: 276px;
+    height: 303px;
+    border-radius: 32px;
+    margin-left: 36px;
+    margin-top: 55px;
+    margin-bottom: 80px;
+    margin-right: 242px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+    filter: drop-shadow(0px 0px 20px rgba(0, 0, 0, 0.25));
+
+    
+}
+span {
+    font-size: 39px;
+
+}
+.hotboxtext {
+    left: 1215px;
+    top: 190px;
+
+    width: 151px;   
+    height: 358px;
+
+    position: absolute;
+    width: 151px;
+    height: 358px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #978B8B;
+        
+}
+.hotboxbanner {
+    position: absolute;
+    width: 189px;
+    height: 45px;
+    top: 16%;
+    left: 70%;
+    background: #D7D7D7;
+    box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 18px;
+
+}
+
+.hotboxbannertext {
+    
+    font-family: 'Inter';
+    font-size: 15px;
+
+
+}
+
+
+.box111 {
+    display: flex;
+
+    margin: 0px;
+    width: 1530px;
+    height: 2500px;
+
+
+    background: rgba(255, 255, 255, 0.17);
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+???????????????????
+
+
